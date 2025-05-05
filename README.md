@@ -6,8 +6,6 @@ Herramienta simple en Python para detectar vulnerabilidades de configuración CO
 
 - Evalúa encabezados `Access-Control-Allow-Origin` y `Access-Control-Allow-Credentials`
 - Soporte para token Bearer
-- Salida en colores
-- Banner estilo hacker 🐱‍💻
 
 ## 🚀 Uso
 
